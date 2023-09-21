@@ -14,6 +14,8 @@
 <small> August 2023</small>
 </sub>
 
+</div>
+
 
 [<< Day 9](../09_Day_Conditional_Rendering/09_conditional_rendering.md) | [Day 11 >>](../11_Day_Events/11_events.md)
 
