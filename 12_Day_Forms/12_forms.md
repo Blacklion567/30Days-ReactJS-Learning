@@ -13,8 +13,7 @@
 <a href="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="_blank">Blacklion567</a><br>
 <small> August 2023</small>
 </sub>
-
-
+</div>
 
 [<< Day 11](../11_Day_Events/11_events.md) | [Day 13 >>](../13_Day_Controlled_Versus_Uncontrolled_Input/13_uncontrolled_input.md)
 
