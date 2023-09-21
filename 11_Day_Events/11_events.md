@@ -14,6 +14,8 @@
 <small> August 2023</small>
 </sub>
 
+</div>
+
 
 [<< Day 10](../10_React_Project_Folder_Structure/10_react_project_folder_structure.md) | [Day 12 >>](../12_Day_Forms/12_forms.md)
 
