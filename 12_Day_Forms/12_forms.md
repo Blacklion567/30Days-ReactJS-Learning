@@ -1,18 +1,20 @@
 <div align="center">
-  <h1> 30 Days Of React: Forms</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+
+  <h1> 30 Days Of React: JavaScript Refresher</h1>
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/">
+    <img src="https://avatars.githubusercontent.com/u/113174497?v=4">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+
+  <a class="header-badge" target="_blank" href="https://github.com/Blacklion567">
+    <img alt="GitHub" src="https://avatars.githubusercontent.com/u/113174497?v=4">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> October, 2020</small>
+<a href="https://www.linkedin.com/in/jade-ivan-bringcola-bb9466272/" target="_blank">Blacklion567</a><br>
+<small> August 2023</small>
 </sub>
 
-</div>
+
 
 [<< Day 11](../11_Day_Events/11_events.md) | [Day 13 >>](../13_Day_Controlled_Versus_Uncontrolled_Input/13_uncontrolled_input.md)
 
