@@ -2,8 +2,7 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import BlacklionImage from './images/Blacklion.jpg';
-
+import BanImage from './images/ban7.jpg';
 // Function to show month date year
 
 // User Card Component
@@ -163,7 +162,7 @@ class App extends React.Component {
     const techs = ['HTML', 'CSS', 'JavaScript'];
 
     // copying the author from data object to user variable using spread operator
-    const user = { ...data.author, image: BlacklionImage };
+    const user = { ...data.author, image: BanImage };
 
     return (
       <div className="app">
